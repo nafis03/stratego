@@ -16,6 +16,11 @@ class Stratego {
 
     private:
         Board board;
+        int turn;
+        bool p1Ready;
+        bool p2Ready;
+        bool p1Win;
+        bool p2Win;
 };
 
 #endif
