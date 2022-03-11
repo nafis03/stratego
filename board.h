@@ -14,7 +14,7 @@ class BoardSpot {
         * Creates a Stratego board.
         */
         BoardSpot() {
-
+            
         }
 
 
